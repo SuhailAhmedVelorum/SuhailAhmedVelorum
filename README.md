@@ -16,11 +16,9 @@
 - Computer Vision
 - Good resources to start learning ML
 
-### 📫 How to reach me: ...
-- LinkedIN : https://www.linkedin.com/in/suhail-ahmed-372992192/
-
 ![Suhail's github stats](https://github-readme-stats.vercel.app/api?username=SuhailAhmedVelorum&count_private=false)
 
+### 📫 How to reach me: ...
 [![Linkedin: ](https://img.shields.io/badge/-SuhailAhmedVelorum-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/suhail-ahmed-372992192/)](https://www.linkedin.com/in/suhail-ahmed-372992192/)
 [![GitHub Ashiq](https://img.shields.io/github/followers/SuhailAhmedVelorum?label=follow&style=social)](https://github.com/SuhailAhmedVelorum)
 
