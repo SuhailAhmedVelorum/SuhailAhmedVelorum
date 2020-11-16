@@ -1,10 +1,9 @@
 ### Hi there 👋
 
 ### 🔭 I’m currently working on ...
--  
+- Completing coding problems on HackerRank and LeetCode
 
 ### 🌱 I’m currently learning ...
-- 
 - Computer Vision using OpenCV
 
 ### 👯 I’m looking to collaborate on ...
