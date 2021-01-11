@@ -17,7 +17,7 @@
 - Good resources to start learning ML
 
 ### My stats:
-![Metrics](https://github.com/SuhailAhmedVelorum/SuhailAhmedVelorum/blob/master/github-metrics.svg)
+![Metrics](./github-metrics.svg)
 
 
 ### 📫 How to reach me: ...
