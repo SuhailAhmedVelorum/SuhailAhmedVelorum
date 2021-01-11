@@ -17,7 +17,8 @@
 - Good resources to start learning ML
 
 ### My stats:
-![Metrics](https://metrics.lecoq.io/SuhailAhmedVelorum?template=classic&isocalendar=1&languages=1&stars=1&isocalendar.duration=full-year&stars.limit=4&config.timezone=Asia%2FCalcutta)
+![Metrics](https://github.com/SuhailAhmedVelorum/SuhailAhmedVelorum/blob/master/github-metrics.svg)
+
 
 ### 📫 How to reach me: ...
 [![Gmail Badge](https://img.shields.io/badge/-suhailahmedbittububby@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:suhailahmedbittububby@gmail.com "Connect via Email")
