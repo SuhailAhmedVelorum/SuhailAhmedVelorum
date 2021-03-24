@@ -2,7 +2,7 @@
 
 ### 🔭 I’m currently working on ...
 - Completing coding problems on HackerRank and LeetCode
-- Some small projects
+- Some medium level projects
 
 ### 🌱 I’m currently learning ...
 - Computer Vision using OpenCV
@@ -21,4 +21,4 @@
 [![Linkedin: ](https://img.shields.io/badge/-SuhailAhmedVelorum-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/suhail-ahmed-372992192/)](https://www.linkedin.com/in/suhail-ahmed-372992192/)
 [![GitHub](https://img.shields.io/github/followers/SuhailAhmedVelorum?label=follow&style=social)](https://github.com/SuhailAhmedVelorum)
 
-Yeah I dont have a lot of stuff up on GitHub. Working on it.
+Yeah I dont have a great portion of my stuff up on GitHub. Working on it.
