@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Suhail Ahmed, a 3rd year CSE AI&ML student at VIT Chennai. I'm currently trying to learn as much as I possibly can and use them to build meaningful (and cool of course) projects. I'm really drawn to the creative aspect of coding and love nothing more than to sit down and code something fun while listening to some dance/electronic music.
+I'm Suhail Ahmed, a 3rd year CSE AI&ML student at VIT Chennai. I'm currently trying to learn as much as I possibly can and use them to build meaningful (and cool of course) projects. I'm really drawn to the creative aspect of coding and love nothing more than to kick back and code something fun while listening to music.
 
 ### 🔭 I’m currently working on ...
 - Completing coding problems on HackerRank and LeetCode
