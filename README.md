@@ -7,10 +7,9 @@ I'm Suhail Ahmed, a 3rd year CSE AI&ML student at VIT Chennai. I'm currently try
 - An Open Source project that aids in the learning process: CodePlex.
 
 ### 🌱 I’m currently learning ...
-- Unity
 - Deep Learning
-- React.js
-- Revising Java
+- Next.js
+- Reinforcement Learning
 
 ### 👯 I’m looking to collaborate on ...
 - Any cool projects
