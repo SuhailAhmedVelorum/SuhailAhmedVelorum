@@ -1,15 +1,16 @@
 ### Hi there 👋
-I'm Suhail Ahmed, a 3rd year CSE AI&ML student at VIT Chennai. I'm currently trying to learn as much as I possibly can and use them to build meaningful (and cool of course) projects. I'm really drawn to the creative aspect of coding and love nothing more than to kick back and code something fun while listening to music.
+I'm Suhail Ahmed, a 4th year CSE AI&ML student at VIT Chennai. I'm currently trying to learn as much as I possibly can and use them to build meaningful (and cool of course) projects. I'm really drawn to the creative aspect of coding and love nothing more than to kick back and code something fun while listening to music.
 
 ### 🔭 I’m currently working on ...
-- Completing coding problems on HackerRank and LeetCode
+- Completing coding problems on HackerRank and LeetCode.
 - Some medium level projects
 - An Open Source project that aids in the learning process: CodePlex.
+- Revising OOPS fundamentals and intermediate concepts.
 
 ### 🌱 I’m currently learning ...
 - Deep Learning
 - Next.js
-- Reinforcement Learning
+- DSA
 
 ### 👯 I’m looking to collaborate on ...
 - Any cool projects
