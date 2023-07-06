@@ -3,20 +3,16 @@ I'm Suhail Ahmed, a 4th year CSE AI&ML student at VIT Chennai. I'm currently try
 
 ### 🔭 I’m currently working on ...
 - Completing coding problems on HackerRank and LeetCode.
-- Some medium level projects
-- An Open Source project that aids in the learning process: CodePlex.
+- Some automation projects for work.
+- A side project that aids in the learning process: Learn in Bit.
 - Revising OOPS fundamentals and intermediate concepts.
 
 ### 🌱 I’m currently learning ...
 - Deep Learning
-- Next.js
 - DSA
 
 ### 👯 I’m looking to collaborate on ...
 - Any cool projects
-
-### 🤔 I’m looking for help with ...
-- Internships
 
 ### My Holopin Badge Board
 [![@thesecondbit's Holopin board](https://holopin.io/api/user/board?user=thesecondbit)](https://holopin.io/@thesecondbit)
