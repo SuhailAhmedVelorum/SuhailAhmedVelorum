@@ -1,15 +1,14 @@
 ### Hi there 👋
-I'm Suhail Ahmed, a 4th year CSE AI&ML student at VIT Chennai. I'm currently trying to learn as much as I possibly can and use them to build meaningful (and cool of course) projects. I'm really drawn to the creative aspect of coding and love nothing more than to kick back and code something fun while listening to music.
+I'm Suhail Ahmed, CSE AI&ML '23 from VIT Chennai. I'm currently trying to learn as much as I possibly can and use it to build meaningful (and of course, cool) projects. I'm drawn to the creative aspect of coding and love nothing more than to kick back and code something fun while listening to music.
 
 ### 🔭 I’m currently working on ...
-- Completing coding problems on HackerRank and LeetCode.
 - Some automation projects for work.
 - A side project that aids in the learning process: Learn in Bit.
-- Revising OOPS fundamentals and intermediate concepts.
+- Delving into the math of ML.
 
 ### 🌱 I’m currently learning ...
 - Deep Learning
-- DSA
+- NVME, SCSI
 
 ### 👯 I’m looking to collaborate on ...
 - Any cool projects
